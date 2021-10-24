@@ -4,6 +4,7 @@ const int ledPinBlue = 11;
 const int potPinRed = A2;
 const int potPinGreen = A1;
 const int potPinBlue = A0;
+const int divModulo = 4;
 int potValueRed = 0; 
 int potValueGreen = 0; 
 int potValueBlue = 0; 
@@ -13,7 +14,6 @@ void setup() {
   pinMode(ledPinBlue, OUTPUT);
   pinMode(potPinGreen, INPUT); 
   pinMode(potPinBlue, INPUT); 
-  Serial.begin(9600);
 }
 
 void loop() {
@@ -21,7 +21,7 @@ void loop() {
   potValueGreen = analogRead(potPinGreen);
   potValueBlue = analogRead(potPinBlue);
 
-  analogWrite(ledPinRed, potValueRed / 4);
-  analogWrite(ledPinGreen, potValueGreen / 4);
-  analogWrite(ledPinBlue, potValueBlue / 4);
+  analogWrite(ledPinRed, potValueRed / divModulo);
+  analogWrite(ledPinGreen, potValueGreen / divModulo);
+  analogWrite(ledPinBlue, potValueBlue / divModulo);
 }
