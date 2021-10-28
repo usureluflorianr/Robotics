@@ -7,3 +7,10 @@ Professor: Andrei Dumitriu  <br />
 
 ## Components 
 * RGB led
+* potentiometers
+* rezistors and wires 
+
+## Task requirement 
+Control each of the color of the RGD led using potentiometers. Control is done using digital electronics (values of the potentiometers are read by Arduino and map the values to each of the pins connected to the leds)
+
+## Setup 
