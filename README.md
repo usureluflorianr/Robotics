@@ -14,4 +14,4 @@ Professor: Andrei Dumitriu  <br />
 Control each of the color of the RGD led using potentiometers. Control is done using digital electronics (values of the potentiometers are read by Arduino and map the values to each of the pins connected to the leds)
 
 ## Setup 
-![setup1](Labs/Lab2/setup.png  =250x250)
+![setup1](Labs/Lab2/setup.png)
