@@ -16,4 +16,5 @@ Control each of the color of the RGD led using potentiometers. Control is done u
 ## Setup 
 ![setup1](Labs/Lab2/setup.png)
 
-## Demo 
+## Demo
+(See drive)[https://drive.google.com/drive/folders/105TRyTHTtz6iL83V6PBk72QXlePSrPj8?usp=sharing]
