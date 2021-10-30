@@ -33,3 +33,6 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 2. State 2 (initiated by counting down 10 seconds after a button press): the light should be yellow for cars, red for people and no sounds. Duration: 3 seconds.  <br />
 3. State 3 (iniated after state 2 ends): red for cars, green for people and a beeping sound from the buzzer at a constant interval. Duration: 10 seconds.  <br />
 4. State 4 (initiated after state 3 ends): red for cars, blinking green for people and a beeping sound from the buzzer, at a constant inter-val, faster than the beeping in state 3.
+
+## Setup
+![setup2](https://user-images.githubusercontent.com/38779396/139524678-d4aa1c74-22b8-4e1f-8fa2-507e6f4b14b7.jpeg)
