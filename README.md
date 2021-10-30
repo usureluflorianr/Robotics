@@ -14,7 +14,7 @@ Professor: Andrei Dumitriu  <br />
 Control each of the color of the RGD led using potentiometers. Control is done using digital electronics (values of the potentiometers are read by Arduino and map the values to each of the pins connected to the leds)
 
 ## Setup 
-![setup1](Labs/Lab2/setup.png){:height="50%" width="50%"}
+![setup1](Labs/Lab2/setup.png)
 
 ## Demo
 [See drive](https://drive.google.com/drive/folders/105TRyTHTtz6iL83V6PBk72QXlePSrPj8?usp=sharing)
@@ -36,3 +36,6 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 
 ## Setup
 ![setup2](https://user-images.githubusercontent.com/38779396/139524678-d4aa1c74-22b8-4e1f-8fa2-507e6f4b14b7.jpeg)
+
+## Demo
+[See drive](https://drive.google.com/drive/u/0/folders/1SXXBnAHsnufreV9IFxkJL2gmYjxHxa6U)
