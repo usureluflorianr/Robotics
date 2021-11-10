@@ -52,7 +52,7 @@ Building the traffic lights for a crosswalk. You will use 2 LEDs to represent th
 Create a ghost detector. Easy, no?
 
 ## Setup 
-![setup3](![WhatsApp Image 2021-11-11 at 00 19 11](https://user-images.githubusercontent.com/38779396/141203243-4489a3a9-fc11-4704-9d58-fe58293c4d6e.jpeg))
+![setup3](https://user-images.githubusercontent.com/38779396/141203243-4489a3a9-fc11-4704-9d58-fe58293c4d6e.jpeg)
 
 ## Demo 
 [See drive](https://drive.google.com/drive/u/0/folders/1VWkwG3smvf_Bjzj2toNV0GQhcY-HZdSa)
