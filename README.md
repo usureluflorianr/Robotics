@@ -56,3 +56,22 @@ Create a ghost detector. Easy, no?
 
 ## Demo 
 [See drive](https://drive.google.com/drive/u/0/folders/1VWkwG3smvf_Bjzj2toNV0GQhcY-HZdSa)
+
+# Homework 4 - change the digits
+
+## Components
+* LEDs 
+* button
+* rezistors and wires
+* 4 - 7 segment display 
+* joystick
+
+## Task requirement
+You have 4 digits, all 0. You have a point at a certain position. With the joystick you can move the point from a digit to another. Push the button of the controller and you unlock the next feature: increase or decrease the digit. When you unlock, the point should blink (we use oX and oY for these 2 operations: move point and increase/decrease).
+
+## Setup 
+![set5](https://user-images.githubusercontent.com/38779396/142248243-bdd2b7c4-abd1-425e-9ec0-84c1aa4f2157.jpeg)
+
+## Demo 
+[See drive](https://drive.google.com/drive/u/0/folders/1ZFQe1CRKplVd56DBlkVhd5qQcSFEtaqE)
+
